@@ -12,8 +12,8 @@ hundredK.dir <- "/storage/nipm/kerimbae/pimass/output/"
 
 #########################################
 
-chr = 9
-chunk= 24
+chr = 19
+chunk= 5
 output <- read.table(paste("routput/gschr",chr,".txt",sep=""),header = T)
 
 
